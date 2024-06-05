@@ -1,2 +1,2 @@
-# amp_ne5532
+# DIY Headphones amplifier
 NE5532 Headphones amp
