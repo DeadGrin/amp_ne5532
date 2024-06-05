@@ -3,7 +3,7 @@ NE5532 Headphones amp PCB files
 
 Slightly modified Phil's Lab design, his video: https://www.youtube.com/watch?v=PkJqE-EsoWY
 
-PCB for one channel, input voltage is 15V 
+PCB for one channel 86x95.5 mm, input voltage is 15V 
 
 Amp has premade filtered voltage circut which connected to USB-C trigger module.
 
